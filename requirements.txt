@@ -1,6 +1,6 @@
 streamlit
-openai
 llama-index
 nltk
 pypdf
 python-dotenv
+openai==0.28
